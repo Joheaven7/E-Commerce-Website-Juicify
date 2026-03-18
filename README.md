@@ -60,7 +60,7 @@ src/
 🚀 Getting Started
 bash
 # Clone & install
-git clone https://github.com/joheaven7/penny-juice-react-tailwind.git
+git clone https://github.com/Joheaven7/E-Commerce-Website-Juicify.git
 cd penny-juice-react-tailwind
 npm install
 
